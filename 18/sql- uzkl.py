@@ -1,0 +1,1 @@
+# -- D:\PYTON\xampp\mysql\bin>mysql -u root -p
